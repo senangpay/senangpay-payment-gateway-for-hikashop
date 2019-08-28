@@ -22,7 +22,7 @@ Integrate senangPay in Hikashop 2.6
 
   * **Secret Key** : Get the Secret Key at senangPay Profile Page
   * **Merchant ID** : Get the Merchant ID at senangPay Profile Page
-  * Mode : Only change to staging if you are register senangPay account at senangPay-staging.herokuapp.com. Otherwise, leave it as Production
+  * Mode : Only change to sandbox if you registered senangPay account at sandbox.senangpay.my. Otherwise, leave it as Production
   * Debug : No
   * Invalid status : Cancelled
   * Verified status : Confirmed
