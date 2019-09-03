@@ -133,7 +133,7 @@ class plgHikashoppaymentSenangpay extends hikashopPaymentPlugin
     function getPaymentDefaultValues(&$element)
     {
         $element->payment_name = 'senangPay';
-        $element->payment_description = 'Pay using <strong>Pay using Online Banking FPX and Credit/Debit Card</strong>';
+        $element->payment_description = 'Pay using <strong>FPX Online Banking or Credit/Debit Card</strong>';
         $element->payment_images = '';
         $element->payment_params->mode = "Production";
         $element->payment_params->currency = $this->accepted_currencies[0];
