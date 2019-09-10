@@ -10,7 +10,7 @@ Integrate senangPay in Hikashop 2.6
 
 # Installation Instruction
 
-  * Download this repository: {{github or hikashop listing}}
+  * Download this repository: https://github.com/senangpay/senangpay-payment-gateway-for-hikashop
   * Go to Joomla Administration >> Extension >> Manage >> Install
   * Upload package file >> Install
   * Enable the plugin >> Extension >> Plugin >> Hikashop senangPay Payment Plugin
